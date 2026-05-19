@@ -5,15 +5,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Alan Raygoza Hatchett</h1></summary>
   </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
 
 
@@ -26,19 +19,20 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+🚀 Ingeniero Aeroespacial en transición a Análisis Financiero y de Datos
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+📊 Comercio | Análisis técnico | Toma de decisiones basada en datos
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+🛠️ Interesado en automatización, digitalización y sistemas empresariales escalables
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+💻 Actualmente se están desarrollando proyectos centrados en análisis, finanzas y resolución de problemas del mundo real
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+🌎 Explorar oportunidades en trabajo remoto, tecnología e industrias innovadoras
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+🎯 Objetivo: combinar ingeniería, análisis de datos y estrategia de mercado para crear soluciones impactantes y escalables
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 📫 Contactame aquí **ing.alanraygoza@gmail.com**
+
 <!--Intro end-->
 
 
