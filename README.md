@@ -39,6 +39,7 @@ Este repositorio reúne los proyectos que he construido durante mi formación co
 | [Experimento A/B — Landing Page](./04-landing-page-ab-test) | ¿Qué versión de página convierte más, y por cuánto es defendible estadísticamente? | Python (scipy.stats, statsmodels) |
 | [Movilidad y economía — LatAm](./05-ladb-mobility-economy) | ¿En qué ciudades de América Latina conviene invertir en transporte? | Python (pandas, seaborn) |
 | [Dashboard de desempeño comercial — Andes Retail Group](./06-andes-retail-tableau-dashboard) | ¿Por qué cayeron los ingresos, y dónde está concentrado el problema? | Tableau |
+| [Diagnóstico de negocio integral — RappiPlus](./07-rappiplus-business-diagnosis) | ¿Es rentable el negocio, dónde se pierden usuarios, regresan, y funcionó el nuevo checkout? | Python, SQL, Tableau |
 
 Cada carpeta tiene su propio README con el contexto de negocio, la metodología, los hallazgos con sus números reales, las recomendaciones y las limitaciones del análisis.
 
