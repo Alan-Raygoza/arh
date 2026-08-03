@@ -59,13 +59,6 @@ El workbook conecta directamente a la fuente `Andes_Retail_Group_2024_2025` (emb
 > - Revisión de la oferta de Electrónica en la región Sur.
 > - Doblar la apuesta en Hogar y en el segmento Económico, que sí están creciendo.
 
-## Cómo explorar este proyecto
-
-Este proyecto se construyó en Tableau, no en código — no hay notebook que ejecutar. La forma de verlo es entrando directamente al dashboard interactivo:
-
-👉 **[public.tableau.com/app/profile/alan.raygoza](https://public.tableau.com/app/profile/alan.raygoza)**
-
-Ahí puedes filtrar por año, segmento y región, y explorar la vista de detalle con las mismas acciones de filtro descritas arriba.
 
 ## Limitaciones
 
