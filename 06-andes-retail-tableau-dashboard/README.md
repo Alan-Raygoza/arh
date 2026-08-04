@@ -48,18 +48,6 @@ El workbook conecta directamente a la fuente `Andes_Retail_Group_2024_2025` (emb
 - Revisión de la propuesta de valor de Electrónica en la región Sur.
 - Doblar la apuesta en Hogar y en el segmento Económico, que sí están creciendo.
 
-## Mensaje ejecutivo (formato Slack)
-
-> **📊 Actualización desempeño comercial**
->
-> Equipo, cerramos 2025 con ingresos de USD 2.67M, -6.8% vs 2024. La buena noticia: no es una caída generalizada — Hogar, la región Norte y el segmento Económico crecieron. El problema está concentrado: el segmento Premium cayó -14%, y la combinación Premium + Verano se desplomó -27.7%, arrastrando gran parte del resultado global. Electrónica en la región Sur también retrocede fuerte (-21.7%).
->
-> Es una caída de volumen (menos pedidos, no precios más bajos), así que no se resuelve solo con descuentos. Propongo priorizar para el próximo trimestre:
-> - Campaña de retención para clientes Premium antes de la temporada de Verano 2026.
-> - Revisión de la oferta de Electrónica en la región Sur.
-> - Doblar la apuesta en Hogar y en el segmento Económico, que sí están creciendo.
-
-
 ## Limitaciones
 
 - El análisis identifica dónde se concentra la caída, no explica causalmente por qué el segmento Premium perdió tracción en Verano — eso requeriría datos cualitativos (encuestas, entrevistas a clientes) que no forman parte de este dataset.
