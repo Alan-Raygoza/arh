@@ -2,7 +2,8 @@
 
 Andes Retail Group cerró 2025 con una caída de ingresos del 6.8% frente a 2024. Este dashboard responde la pregunta que sigue: ¿la caída es generalizada, o está concentrada en algún país, segmento o temporada específica — y qué se hace al respecto?
 
-**Herramienta:** Tableau (workbook autocontenido, sin código)
+**Herramienta:** Tableau (workbook autocontenido, sin código).
+**Dashboard en vivo:** [public.tableau.com/app/profile/alan.raygoza](https://public.tableau.com/app/profile/alan.raygoza)
 
 ## Contexto de negocio
 
